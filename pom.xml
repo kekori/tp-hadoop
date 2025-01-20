@@ -44,4 +44,9 @@
         </plugins>
     </build>
 
+    <modules>
+        <module>p-collaborative-filtering-job-1</module>
+        <module>p-collaborative-filtering-job-2</module>
+        <module>p-collaborative-filtering-job-3</module>
+    </modules>
 </project>
